@@ -2,7 +2,7 @@
 
 **UseDev** é um site fictício desenvolvido durante o curso da **Alura**, com o objetivo de praticar o uso de **CSS Grid** em projetos reais. A proposta é criar uma loja online voltada para o universo geek, onde usuários podem comprar camisetas, canecas, decorações e acessórios personalizados — e ainda assinar a **newsletter** para receber ofertas antes de todo mundo.
 
-🔗 Acesse o site online: usedev-psi.vercel.app
+🔗 Acesse o site online:** [usedev-psi.vercel.app](https://usedev-psi.vercel.app)
 
 ## 💡 Propósito do Projeto
 
